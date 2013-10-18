@@ -1,5 +1,5 @@
 {
-  "name": "streamagent",
+  "name": "stream-agent",
   "version": "0.0.1",
   "description": "Connect http/websockets client using arbitrary duplex stream",
   "main": "index.js",
