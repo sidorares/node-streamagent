@@ -13,3 +13,7 @@ http.request({
      // ..
 }).end();
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sidorares/node-streamagent/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
