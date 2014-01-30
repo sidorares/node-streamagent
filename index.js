@@ -6,7 +6,7 @@ function socketify(stream) {
      return;
   stream.on('data', function(data) {
     if (stream.ondata)
-      stream.ondta(data, 0, data.length); 
+      stream.ondata(data, 0, data.length); 
   });
   stream.setTimeout = function() {};
   stream.setNoDelay = function() {};
