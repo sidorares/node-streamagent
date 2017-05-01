@@ -1,6 +1,8 @@
 node-streamagent
 ================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/node-streamagent.svg)](https://greenkeeper.io/)
+
 Connect http/websockets node.js client using arbitrary duplex stream
 
 ```js
